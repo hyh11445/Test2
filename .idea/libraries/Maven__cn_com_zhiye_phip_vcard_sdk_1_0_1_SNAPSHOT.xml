@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.zhiye:phip-vcard-sdk:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://F:/Maven/repository/cn/com/zhiye/phip-vcard-sdk/1.0.1-SNAPSHOT/phip-vcard-sdk-1.0.1-20191227.074056-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Maven/repository/cn/com/zhiye/phip-vcard-sdk/1.0.1-SNAPSHOT/phip-vcard-sdk-1.0.1-20191227.074056-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Maven/repository/cn/com/zhiye/phip-vcard-sdk/1.0.1-SNAPSHOT/phip-vcard-sdk-1.0.1-20191227.074056-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

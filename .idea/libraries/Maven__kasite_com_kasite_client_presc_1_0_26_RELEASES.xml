@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: kasite:com.kasite.client.presc:1.0.26-RELEASES">
+    <CLASSES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.presc/1.0.26-RELEASES/com.kasite.client.presc-1.0.26-RELEASES.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.presc/1.0.26-RELEASES/com.kasite.client.presc-1.0.26-RELEASES-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.presc/1.0.26-RELEASES/com.kasite.client.presc-1.0.26-RELEASES-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: kasite:com.kasite.core.mqtt:1.4.5-RELEASES">
+    <CLASSES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.core.mqtt/1.4.5-RELEASES/com.kasite.core.mqtt-1.4.5-RELEASES.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.core.mqtt/1.4.5-RELEASES/com.kasite.core.mqtt-1.4.5-RELEASES-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.core.mqtt/1.4.5-RELEASES/com.kasite.core.mqtt-1.4.5-RELEASES-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

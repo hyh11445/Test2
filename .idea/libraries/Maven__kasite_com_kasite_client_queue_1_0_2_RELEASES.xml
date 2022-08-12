@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: kasite:com.kasite.client.queue:1.0.2-RELEASES">
+    <CLASSES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.queue/1.0.2-RELEASES/com.kasite.client.queue-1.0.2-RELEASES.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.queue/1.0.2-RELEASES/com.kasite.client.queue-1.0.2-RELEASES-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Maven/repository/kasite/com.kasite.client.queue/1.0.2-RELEASES/com.kasite.client.queue-1.0.2-RELEASES-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KASITE-CLIENT-BUSINESS.8000022:war">
+    <output-path>$PROJECT_DIR$/../ty2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>KASITE-CLIENT-BUSINESS.8000022</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="KASITE-CLIENT-BUSINESS.8000022-1.0.0-RELEASES.war">
+      <element id="artifact" artifact-name="KASITE-CLIENT-BUSINESS.8000022:war exploded" />
+    </root>
+  </artifact>
+</component>
